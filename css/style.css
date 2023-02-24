@@ -3,7 +3,6 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  padding: 0;
 }
 .topnav {
   background-color: #333;
@@ -45,7 +44,7 @@ body {
 .motto {
   display: flex;
   justify-content: center;
-  font-size: 22px;
+  font-size: 34px;
   margin: 10px;
 }
 .banner{
@@ -59,7 +58,7 @@ body {
   justify-content: center;
 }
 .title{
-  
+
 }
 .picks img{
   height: 20%;
@@ -100,4 +99,8 @@ body {
   margin-top: auto;
   height: 50px;
   text-align: center;
+}
+.htp {
+  font-size: 20px;
+  text-indent: 22px;
 }
